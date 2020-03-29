@@ -7,3 +7,10 @@ It consist of two part
 1.	Data Analysis using R
 2.	Visualization using Power BI .
 
+Resources:
+Relevant R packages 
+
+rvest (HTML parsing): https://github.com/hadley/rvest
+SelectorGadget (HTML/CSS analysis): https://selectorgadget.com/
+dplyr (Data Manipulation):https://dplyr.tidyverse.org/reference/index.html
+RSelenium Installation using Docker:https://grishagin.com/r/rselenium/2017/11/11/setup-rselenium-windows10.html 
