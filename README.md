@@ -1,7 +1,8 @@
-# CricketAnalysisT20India
+# Cricket-Analysis-T20-India-WebSrapping-PowerBI
 
-The main moto of this project is to do web scrapping the data from www.crickbuzz.com and to visualize the data in Power Bi tool .
-
+Researchers often need to retrieve data from a web  and assemble it into a usable data set. Example is taken of Cricket.
+I am trying to pull data of India team (T20 ) from www.crickbuzz.com . Once it is exported in csv, available for reporting using Power BI Tool.
 It consist of two part 
-1.	Data Analysis 
-2.	Power BI Dsahboard
+1.	Data Analysis using R
+2.	Visualization using Power BI .
+
